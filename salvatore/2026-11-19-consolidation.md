@@ -64,6 +64,7 @@ Until now, the whole prototype lived in one repository, `example-device`, with a
 - A3, A4 → example-device `viewer/api.py`, `viewer/server.py`, `tests/test_boundaries.py`
 - H4, A7 → example-device `README.md`
 - H6, M6–M8 → `operations-orchestra/graphify-out/GRAPH_REPORT.md`
+- graph → [2026-11-19-graph-report.md](2026-11-19-graph-report.md), rebuilt after this record moved to dev-log, without the uncommitted `example-device/planning/`
 </details>
 
 <details><summary>Record details</summary>
